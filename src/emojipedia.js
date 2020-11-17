@@ -87,7 +87,14 @@ const emojipedia = [
     emoji: "🥺",
     name: "Pleading Face",
     meaning: "A yellow face with furrowed eyebrows, a small frown, and large, “puppy dog” eyes, as if begging or pleading. May also represent adoration or feeling touched by a loving gesture."
+  },
+  {
+    id: 14,
+    emoji: "🤩",
+    name: "Star Eyes",
+    meaning: "A yellow face with star eyes. Represents someone to be really excited or happy about something."
   }
+
 ];
 
 export default emojipedia;
